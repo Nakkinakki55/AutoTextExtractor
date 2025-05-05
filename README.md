@@ -14,8 +14,8 @@
 ## インストール方法
 ### 1. リポジトリをクローン
 ```txt
-git clone https://github.com/Nakkinakki55/OCRChatGPT.git
-cd OCRChatGPT
+git clone https://github.com/Nakkinakki55/AutoTextExtractor.git
+cd AutoTextExtractor
 ```
 
 ## デプロイ方法

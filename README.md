@@ -20,4 +20,5 @@ cd AutoTextExtractor
 
 ## デプロイ方法
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。 
+<br>
 [手書きメモや領収書を自動で整理、OCRとChatGPTで簡単にデータ化する方法 #Python - Qiita](https://qiita.com/nishifeoda/items/c1db897df5e53778d297)
